@@ -1,6 +1,5 @@
 # Tech For Mobile Apps
 
-## Instructor: 
 ## Student1
 
 **Name**: 
