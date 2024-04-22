@@ -16,7 +16,7 @@
 
 ## Screenshot1
 
-![Database-account](images/lab3-1.png)
+![Database-account](images/Screenshot 2024-04-21 111122.png)
 
 ![Database-account](images/lab3-1.png)
 
