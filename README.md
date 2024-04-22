@@ -2,15 +2,15 @@
 
 ## Student1
 
-**Name**: 
+**Name**: Sindhujha Chava
 
-**Email**: 
+**Email**: chavasa@mail.uc.edu
 
 ## student2
 
-**Name**:
+**Name**: Sai Bhavana Pagadavarapu
 
-**Email**:
+**Email**: pagadasn@mail.uc.edu
 
 ### Respository Link
 
@@ -27,8 +27,8 @@ Link for my Respository:
 
 
 
-### Demostration Vedio
+### Demostration Video
 
-vedio:
+video:
 []()
 
